@@ -4,7 +4,7 @@ Plantilla para la creación de un **Cliente en Agular JS y TypeScript** con el g
 ## Prerrequisitos:
 
 1. Instalar Node.js y npm.
-
+  
 ```shell
 sudo apt update
 ```
