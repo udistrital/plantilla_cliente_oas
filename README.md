@@ -63,3 +63,9 @@ cd nombre_cliente_oas
 ```
 
 **NOTA:** ten en cuenta que esta plantilla crea un **Proyecto para un Cliente base**. Sin embargo, será necesario realizar algunas configuraciones adicionales como menús, variables de entorno, ajuste de estilos y actulización de dependencias.
+
+## Manual técnico
+
+Para obtener detalles adicionales sobre cómo utilizar la plantilla Hygen en la creación de clientes, te invitamos a consultar el manual técnico disponible en el siguiente enlace:
+
+https://udistritaleduco-my.sharepoint.com/:w:/g/personal/computo_udistrital_edu_co/ESpe5eurOgJLoaT-EbeoiycBDN1p8_yiG-LdrFmGfjVWVA?e=ENAgbq
